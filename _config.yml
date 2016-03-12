@@ -1,0 +1,14 @@
+layout_spectrum: 0.3255319
+typography_spectrum: 0.803615
+color:
+  saturation: 0.9319149
+  brandStrength: 0.9319149
+  lightness: 0.9319149
+  brandColors:
+    - '#160E0C'
+    - '#1F304B'
+    - '#FDFDFC'
+    - '#E0CE9A'
+    - '#5D5342'
+  rhythmicContrast: 0.6723405
+name: Bluebutterfly Club
